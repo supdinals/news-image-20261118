@@ -264,10 +264,10 @@ def variant_a():
 # ---------------------------------------------------------------- variant C
 SHORT_BODIES = [
     "Xi urges free trade and AI cooperation; a Trump summit follows Thursday.",
-    "Over 11,000 cases, 5,500 deaths in six months. Africa CDC: not under control.",
+    "Over 11,000 cases, 5,500 deaths in six months - second-largest on record.",
     "The final Senate race is called; first Alaska Native in the US Senate.",
-    "Launched in 1977; its signal now takes a full 24 hours to reach Earth.",
-    "Off Andhra Pradesh at 100-110 km/h; landfall expected Friday.",
+    "Launched in 1977, the first object this far out; signal takes 24 hours.",
+    "Off Andhra Pradesh at 100-110 km/h; landfall Friday, Nellore-Visakhapatnam.",
 ]
 
 
